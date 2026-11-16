@@ -1,0 +1,21 @@
+{
+  "name": "Emberling Devnet #1",
+  "symbol": "MCRYPTO",
+  "description": "Development-only original creature metadata for Monster Crypto Phase 4 verification. It has no sale, claim, transfer incentive, token utility, or Mainnet authorization.",
+  "image": "https://cdn.jsdelivr.net/gh/MozerLins/monster-crypto-devnet-metadata@v1.0.0/collection-cover-v1.png",
+  "external_url": "https://github.com/MozerLins/PokeBomn",
+  "attributes": [
+    {
+      "trait_type": "species",
+      "value": "emberling"
+    },
+    {
+      "trait_type": "environment",
+      "value": "devnet"
+    },
+    {
+      "trait_type": "purpose",
+      "value": "phase-4-verification"
+    }
+  ]
+}
