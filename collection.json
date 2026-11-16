@@ -2,6 +2,6 @@
   "name": "Monster Crypto Devnet",
   "symbol": "MCRYPTO",
   "description": "Development-only Metaplex Core collection for the Monster Crypto Solana Devnet environment.",
-  "image": "https://mozerlins.github.io/monster-crypto-devnet-metadata/collection-cover-v1.png",
+  "image": "https://cdn.jsdelivr.net/gh/MozerLins/monster-crypto-devnet-metadata@main/collection-cover-v1.png",
   "external_url": "https://github.com/MozerLins/PokeBomn"
 }
