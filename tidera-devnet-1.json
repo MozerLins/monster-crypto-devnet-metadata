@@ -2,7 +2,7 @@
   "name": "Tidera Devnet #1",
   "symbol": "MCRYPTO",
   "description": "Development-only original creature metadata for Monster Crypto Phase 4 verification. It has no sale, claim, transfer incentive, token utility, or Mainnet authorization.",
-  "image": "https://mozerlins.github.io/monster-crypto-devnet-metadata/tidera-portrait-v1.png",
+  "image": "https://raw.githubusercontent.com/MozerLins/monster-crypto-devnet-metadata/fc8c921c53ff2b1a797c1923cb7022892ec8cbcb/tidera-portrait-v1.png",
   "external_url": "https://github.com/MozerLins/PokeBomn",
   "attributes": [
     {
